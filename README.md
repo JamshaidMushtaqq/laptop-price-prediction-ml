@@ -286,9 +286,9 @@ Possible improvements include:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Jamshaid Mushtaq**
 
-GitHub: `https://github.com/YOUR-USERNAME`
+GitHub: `https://github.com/JamshaidMushtaqq/laptop-price-prediction-ml`
 
 ## 📄 License
 
